@@ -1,0 +1,6 @@
+Product Name: cake	Product Description: food
+Product Price: 25	Product Quantity: 5
+Product Company: king
+Product Name: singara	Product Description: food
+Product Price: 5	Product Quantity: 5
+Product Company: foodking
